@@ -8,14 +8,14 @@ const router = express.Router();
 
 // Helper to find user
 const findUser = (username) => db.data.users.find(u => u.username === username);
-
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'admin';
 // Login
 router.post('/login', async (req, res) => {
     const { username, password } = req.body;
     
     // Auto-seed admin if no users exist
-    if (db.data.users.length === 0 && username === 'admin' && password === 'admin') {
-         const hashedPassword = await bcrypt.hash('admin', 10);
+    if (db.data.users.length === 0 && username === 'admin' && password === ADMIN_PASSWORD) {
+         const hashedPassword = await bcrypt.hash(ADMIN_PASSWORD, 10);
          const admin = { id: nanoid(), username: 'admin', password: hashedPassword };
          db.data.users.push(admin);
          await db.write();
