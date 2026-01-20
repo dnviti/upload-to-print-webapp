@@ -1,0 +1,182 @@
+{
+  "users": [
+    {
+      "id": "FfM1A1MyqvDshinTS-yqJ",
+      "username": "admin",
+      "password": "$2b$10$SAIGe5MCbTfRNOdRZtu1kO2RBtM8DKAkTFYWJtVZaEQHYk65SRM7W"
+    }
+  ],
+  "shares": [
+    {
+      "id": "l2Fk_YgAjU",
+      "name": "petrini",
+      "password": "$2b$10$f/ppIkcTV7bBg0gZK8KyDuA8tPwYZTumLOh0hK9op1eohmItsxYse",
+      "expiresAt": null,
+      "createdAt": "2026-01-19T23:52:43.880Z"
+    }
+  ],
+  "files": [
+    {
+      "id": "8xUt_VBSok1VD6-c45sD1",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "Gcm8ydIiscXYe9JoOdYyT.png",
+      "originalName": "001 - Forest.png",
+      "mimeType": "image/png",
+      "size": 12898561,
+      "createdAt": "2026-01-20T00:06:31.112Z"
+    },
+    {
+      "id": "3wDAL2H4B0q83WLfSdQkV",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "JqBYnWWQrz7beryR15ssG.png",
+      "originalName": "002 - Wastes.png",
+      "mimeType": "image/png",
+      "size": 13334936,
+      "createdAt": "2026-01-20T00:06:31.112Z"
+    },
+    {
+      "id": "Ew5j2rjoJMUiqceesCqgU",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "v_1T9syzW7k-wCpsB97tk.png",
+      "originalName": "006 - Plains.png",
+      "mimeType": "image/png",
+      "size": 15303697,
+      "createdAt": "2026-01-20T00:06:31.112Z"
+    },
+    {
+      "id": "HbzgvAVzVX9kAD6uBssq0",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "gDqGl9jgK_AGxN2QAOCmA.png",
+      "originalName": "007 - Mountain.png",
+      "mimeType": "image/png",
+      "size": 12340344,
+      "createdAt": "2026-01-20T00:06:31.112Z"
+    },
+    {
+      "id": "XKV6Y0mgVtrgXUroKlZ_Z",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "7Iz7VwPsm_WLXV22WnYc1.png",
+      "originalName": "008 - Swamp.png",
+      "mimeType": "image/png",
+      "size": 11963914,
+      "createdAt": "2026-01-20T00:06:31.112Z"
+    },
+    {
+      "id": "3hQjq-XrDxFkTgS0SFsKp",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "6e2eau7A40x6uxRKqYwEF.png",
+      "originalName": "009 - Island.png",
+      "mimeType": "image/png",
+      "size": 14411286,
+      "createdAt": "2026-01-20T00:06:31.112Z"
+    },
+    {
+      "id": "-Jxv_SwLFsaI8E5gSFU9Q",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "AoPKlFgpObR642W3JbKWq.png",
+      "originalName": "010 - Island (2).png",
+      "mimeType": "image/png",
+      "size": 13129189,
+      "createdAt": "2026-01-20T00:06:31.112Z"
+    },
+    {
+      "id": "af8wuNkmeJ67gXrJMs4sF",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "aQpKlfPM5-lLECy03nfut.png",
+      "originalName": "012 - Swamp (2).png",
+      "mimeType": "image/png",
+      "size": 9803150,
+      "createdAt": "2026-01-20T00:06:31.112Z"
+    },
+    {
+      "id": "3agTziuNFQpgmO3lz3gHT",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "hciHRZFpDbcNe6iBhGbJ2.png",
+      "originalName": "016 - Plains (2).png",
+      "mimeType": "image/png",
+      "size": 12085168,
+      "createdAt": "2026-01-20T00:06:31.112Z"
+    },
+    {
+      "id": "dFc2qQs4SK3ypq2i7EFKq",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "XplqI_MQ84Zx0GPZEm5Ox.png",
+      "originalName": "018 - Plains (3).png",
+      "mimeType": "image/png",
+      "size": 9002748,
+      "createdAt": "2026-01-20T00:06:31.112Z"
+    },
+    {
+      "id": "-hHVYfX9vzhpoi6TTSUTV",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "a6i5oVwgp3S8_0j-WEa41.png",
+      "originalName": "019 - Forest (2).png",
+      "mimeType": "image/png",
+      "size": 10693982,
+      "createdAt": "2026-01-20T00:06:31.113Z"
+    },
+    {
+      "id": "PROWQCDvJNKL5G-60-XPn",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "mO2kqmGE9Xg_TOp5PhfxH.png",
+      "originalName": "022 - Forest (3).png",
+      "mimeType": "image/png",
+      "size": 15886256,
+      "createdAt": "2026-01-20T00:06:31.113Z"
+    },
+    {
+      "id": "PGEjSObUJPn9NA841DekO",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "hsIZfjQv0eukf7rvkLshQ.png",
+      "originalName": "024 - Wastes (2).png",
+      "mimeType": "image/png",
+      "size": 9031338,
+      "createdAt": "2026-01-20T00:06:31.113Z"
+    },
+    {
+      "id": "jBBBHP1JFUuMUXjh8AmO9",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "Gt48BsJuhzYbE0LwXWy-t.png",
+      "originalName": "025 - Island (3).png",
+      "mimeType": "image/png",
+      "size": 8615928,
+      "createdAt": "2026-01-20T00:06:31.113Z"
+    },
+    {
+      "id": "BIz9Q2o3v_rVN4Rh0_juJ",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "v8us9dtTCXWzGPli5Z2wq.png",
+      "originalName": "028 - Mountain (2).png",
+      "mimeType": "image/png",
+      "size": 10746724,
+      "createdAt": "2026-01-20T00:06:31.113Z"
+    },
+    {
+      "id": "Ho4CqnITPpOa6lu4mMTtM",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "LN2SP3An0LKpjLu0o1RKt.png",
+      "originalName": "032 - Swamp (3).png",
+      "mimeType": "image/png",
+      "size": 16023356,
+      "createdAt": "2026-01-20T00:06:31.113Z"
+    },
+    {
+      "id": "9KRUtTVcuo1rVIW9hIBlx",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "nLTTEOlg842Yqa0f9GnBt.png",
+      "originalName": "035 - Mountain (3).png",
+      "mimeType": "image/png",
+      "size": 12547125,
+      "createdAt": "2026-01-20T00:06:31.113Z"
+    },
+    {
+      "id": "5sr7WRiL_bzNM7_iKFLCw",
+      "shareId": "l2Fk_YgAjU",
+      "filename": "M75SOsfQiKG08c5BxYGVy.png",
+      "originalName": "036 - Wastes (3).png",
+      "mimeType": "image/png",
+      "size": 11285911,
+      "createdAt": "2026-01-20T00:06:31.113Z"
+    }
+  ]
+}
